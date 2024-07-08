@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajit Devda</h1>
 <h3 align="center">A future full stack developer from India....</h3>
-![image](https://github.com/Ajit745/Ajit745/assets/130886882/e3af3b39-c220-46e1-9228-a3abb530ead5)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajit45&label=Profile%20views&color=0e75b6&style=flat" alt="ajit45" /> </p>
