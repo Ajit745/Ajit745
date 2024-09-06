@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajit Devda</h1>
-<h3 align="center">A future full stack developer from India....</h3>
+<h3 align="center">A future flutterdeveloper from India....</h3>
 <img align="right" alt="coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
