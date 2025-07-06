@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajit Devda</h1>
 <h3 align="center">A Ethical Hacker</h3>
-<img align="right" alt="coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 
 
 
