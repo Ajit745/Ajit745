@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TryHackMe Badge</title>
+</head>
+  <body>
 <h1 align="center">Hi 👋, I'm Ajit Devda</h1>
 
 <h3 align="center">A Ethical Hacker</h3>
@@ -13,6 +20,7 @@
 <p align="center">
 <a href="https://instagram.com/ajitdevda745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajitdevda745" height="30" width="40" /></a>
 <a href="https://discord.gg/ajit745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ajit745" height="30" width="40" /></a>
+<a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3850494" target="blank"><img align="center" src="https://tryhackme.com/img/favicon.png" alt="ajitdevda745" height="30" width="30" /></a>
 </p>
 
 <div align="center"><img align="center" alt="coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></div>
@@ -20,5 +28,5 @@
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajit745&show_icons=true&locale=en" alt="Ajit745" /></div>
 <br>
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajit745&" alt="Ajit745" /></div>
-
-
+  </body>
+</html>
